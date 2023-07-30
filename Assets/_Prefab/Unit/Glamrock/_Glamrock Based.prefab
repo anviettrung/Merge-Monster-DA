@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5563462544413819226
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5538329003497122217}
+  m_Layer: 0
+  m_Name: Fire Point
+  m_TagString: Untagged
+  m_Icon: {fileID: 7148428337604731935, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5538329003497122217
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5563462544413819226}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3725629413757552668}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &3004117729731677862
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1464203439182508392, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: rends.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1464203439182508392, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: rends.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 1557208544994044044, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2097333687780044071, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2097333687780044071, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: textMesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2097333687780044071, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: animEvent
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2097333687780044071, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: projectilePrefab
+      value: 
+      objectReference: {fileID: 4690029657534793858, guid: 1731c958583c0a9439434c5f42b14939, type: 3}
+    - target: {fileID: 2097333687780044071, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: projectileSpawnPoint
+      value: 
+      objectReference: {fileID: 5538329003497122217}
+    - target: {fileID: 2097333687780044071, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: enableColliderBodyOnActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4332156020161838747, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4332156020161838747, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4747542826830060312, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: rends.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4747542826830060312, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: rends.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 6158634963635769371, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_Volume
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6158634963635769371, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_audioClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 2e5a63f071634aa49a8cbcb3abcc0c96, type: 3}
+    - target: {fileID: 7941276025865759944, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_Name
+      value: _Glamrock Based
+      objectReference: {fileID: 0}
+    - target: {fileID: 9047521413821089394, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+      propertyPath: m_Radius
+      value: 0.1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+--- !u!4 &3725629413757552668 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1874866469231658682, guid: dd2efa6deea20b749a53971f661654aa, type: 3}
+  m_PrefabInstance: {fileID: 3004117729731677862}
+  m_PrefabAsset: {fileID: 0}

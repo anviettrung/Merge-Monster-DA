@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf46e849b3c5daa48b0248947ad857fc, type: 3}
+  m_Name: Glamrock 7
+  m_EditorClassIdentifier: 
+  display_name: Glam"Clock"
+  icon: {fileID: 21300000, guid: 45276f65cc3e75546828e033944039ea, type: 3}
+  stars: 1
+  prefab: {fileID: 5703788546564236733, guid: 34e0072de10de1b41a3bc5f62c939aec, type: 3}
+  damage: 724
+  hp: 1448
+  atkRange: 50
+  atkSpeed: 100
+  moveSpeed: 2
+  projectileMoveSpeed: 30
+  origin: {fileID: 11400000, guid: 82b949ea3bfab174793279653b302702, type: 2}
+  prevUpgrade: {fileID: 11400000, guid: 6ecae535644a7df44b7cdab91d419d9e, type: 2}
+  nextUpgrade: {fileID: 11400000, guid: 76b7f0d53b17dab44962ec288b198a33, type: 2}

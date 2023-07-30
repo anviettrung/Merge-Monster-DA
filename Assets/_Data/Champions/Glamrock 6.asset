@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf46e849b3c5daa48b0248947ad857fc, type: 3}
+  m_Name: Glamrock 6
+  m_EditorClassIdentifier: 
+  display_name: Soldier Glamrock
+  icon: {fileID: 21300000, guid: 7a8f1127a3b35964fa1d895e7a664079, type: 3}
+  stars: 1
+  prefab: {fileID: 5703788546564236733, guid: 4f9082628d920e24ca2cee7fbd785866, type: 3}
+  damage: 304
+  hp: 609
+  atkRange: 50
+  atkSpeed: 100
+  moveSpeed: 2
+  projectileMoveSpeed: 15
+  origin: {fileID: 11400000, guid: 82b949ea3bfab174793279653b302702, type: 2}
+  prevUpgrade: {fileID: 11400000, guid: 3fc7c38a14eb31a4b9b7cc534c29da90, type: 2}
+  nextUpgrade: {fileID: 11400000, guid: c8555aa07b4fa6142aca2f24ee98a217, type: 2}

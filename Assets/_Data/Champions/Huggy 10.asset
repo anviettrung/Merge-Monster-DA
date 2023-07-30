@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf46e849b3c5daa48b0248947ad857fc, type: 3}
+  m_Name: Huggy 10
+  m_EditorClassIdentifier: 
+  display_name: King Wuggy
+  icon: {fileID: 21300000, guid: 67b1e7006e653ab40ab239a68447c75d, type: 3}
+  stars: 1
+  prefab: {fileID: 2863308285445381476, guid: b257aea905fa90740918f4eb9fcc4367, type: 3}
+  damage: 6862
+  hp: 45749
+  atkRange: 6.6
+  atkSpeed: 100
+  moveSpeed: 5
+  projectileMoveSpeed: 0
+  origin: {fileID: 11400000, guid: 5b75c9f921ab87c40ab9336f10c75437, type: 2}
+  prevUpgrade: {fileID: 11400000, guid: 855a27ee210337b4e9613c485f7279e2, type: 2}
+  nextUpgrade: {fileID: 11400000, guid: ff93a11078867b349a2341655e4c9599, type: 2}

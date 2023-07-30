@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf46e849b3c5daa48b0248947ad857fc, type: 3}
+  m_Name: Huggy 3
+  m_EditorClassIdentifier: 
+  display_name: Gangster Wuggy
+  icon: {fileID: 21300000, guid: bd376ef21e916824ead7801abe52ccbb, type: 3}
+  stars: 1
+  prefab: {fileID: 2863308285445381476, guid: 5bfe6f9444f31bb46a00d9e9ad17af15, type: 3}
+  damage: 17
+  hp: 112
+  atkRange: 2.8
+  atkSpeed: 100
+  moveSpeed: 3.5
+  projectileMoveSpeed: 1.5
+  origin: {fileID: 11400000, guid: 5b75c9f921ab87c40ab9336f10c75437, type: 2}
+  prevUpgrade: {fileID: 11400000, guid: 110dc62c608051d4a9efff5d377f06a2, type: 2}
+  nextUpgrade: {fileID: 11400000, guid: 263994afa498f39448f8123e0da08122, type: 2}

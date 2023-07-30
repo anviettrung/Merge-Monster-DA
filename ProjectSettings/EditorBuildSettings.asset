@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scene/Preload.unity
+    guid: c02bceb1f9aff664e8bf914660934ef3
+  - enabled: 1
+    path: Assets/_Scene/Main.unity
+    guid: cc1e4e9ce4c923841aee08437eb1bf0f
+  - enabled: 1
+    path: Assets/_Scene/Merge Draw.unity
+    guid: 481e3256483f2a3469b06ea657912bcb
+  - enabled: 0
+    path: Assets/_Scene/Map Maker.unity
+    guid: ad9a34f1e00d25344a71a0e59c9b0a0a
+  m_configObjects: {}

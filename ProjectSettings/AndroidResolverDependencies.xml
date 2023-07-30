@@ -1,0 +1,54 @@
+<dependencies>
+  <packages>
+    <package>androidx.lifecycle:lifecycle-common-java8:2.4.1</package>
+    <package>androidx.lifecycle:lifecycle-process:2.4.1</package>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>com.android.installreferrer:installreferrer:2.1</package>
+    <package>com.applovin.mediation:bytedance-adapter:4.5.0.6.0</package>
+    <package>com.applovin.mediation:chartboost-adapter:8.4.3.1</package>
+    <package>com.applovin.mediation:facebook-adapter:[6.11.0.5]</package>
+    <package>com.applovin.mediation:fyber-adapter:8.1.5.1</package>
+    <package>com.applovin.mediation:google-adapter:[21.1.0.0]</package>
+    <package>com.applovin.mediation:google-ad-manager-adapter:[21.1.0.0]</package>
+    <package>com.applovin.mediation:ironsource-adapter:7.2.3.1.0</package>
+    <package>com.applovin.mediation:mintegral-adapter:16.1.91.0</package>
+    <package>com.applovin.mediation:mytarget-adapter:5.15.1.7</package>
+    <package>com.applovin.mediation:unityads-adapter:4.3.0.0</package>
+    <package>com.applovin.mediation:vungle-adapter:6.11.0.2</package>
+    <package>com.applovin:applovin-sdk:11.4.4</package>
+    <package>com.appsflyer:af-android-sdk:6.5.2</package>
+    <package>com.appsflyer:unity-wrapper:6.5.2</package>
+    <package>com.google.android.gms:play-services-ads:21.0.0</package>
+    <package>com.google.android.gms:play-services-base:16.1.0</package>
+    <package>com.google.android.gms:play-services-base:18.1.0</package>
+    <package>com.google.firebase:firebase-analytics:21.1.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:9.3.0</package>
+    <package>com.google.firebase:firebase-app-unity:9.3.0</package>
+    <package>com.google.firebase:firebase-common:20.1.1</package>
+    <package>com.google.firebase:firebase-config:21.1.1</package>
+    <package>com.google.firebase:firebase-config-unity:9.3.0</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/9.3.0/firebase-analytics-unity-9.3.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/9.3.0/firebase-analytics-unity-9.3.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/9.3.0/firebase-app-unity-9.3.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/9.3.0/firebase-app-unity-9.3.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/9.3.0/firebase-config-unity-9.3.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-config-unity/9.3.0/firebase-config-unity-9.3.0.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.atsoft.merge.monster" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf46e849b3c5daa48b0248947ad857fc, type: 3}
+  m_Name: Glamrock 11
+  m_EditorClassIdentifier: 
+  display_name: Fortress Giant Glamrock
+  icon: {fileID: 21300000, guid: 089c62e9ab17dd14e8c73e165a828eac, type: 3}
+  stars: 1
+  prefab: {fileID: 5703788546564236733, guid: 85bb17c5de93c2346bdd83a85ba7d519, type: 3}
+  damage: 5794
+  hp: 46358
+  atkRange: 50
+  atkSpeed: 400
+  moveSpeed: 2
+  projectileMoveSpeed: 15
+  origin: {fileID: 11400000, guid: 82b949ea3bfab174793279653b302702, type: 2}
+  prevUpgrade: {fileID: 11400000, guid: 3c7e5d6c6de415e44b729766ec325e02, type: 2}
+  nextUpgrade: {fileID: 0}

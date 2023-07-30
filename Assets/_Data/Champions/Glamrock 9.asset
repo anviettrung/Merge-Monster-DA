@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf46e849b3c5daa48b0248947ad857fc, type: 3}
+  m_Name: Glamrock 9
+  m_EditorClassIdentifier: 
+  display_name: Bazoorock!
+  icon: {fileID: 21300000, guid: 543cd93d29ecce74eaa54168c7b8c5f7, type: 3}
+  stars: 1
+  prefab: {fileID: 5703788546564236733, guid: 349ff9d9352324a49ba0d3ce62f44684, type: 3}
+  damage: 4097
+  hp: 8194
+  atkRange: 50
+  atkSpeed: 100
+  moveSpeed: 2
+  projectileMoveSpeed: 13
+  origin: {fileID: 11400000, guid: 82b949ea3bfab174793279653b302702, type: 2}
+  prevUpgrade: {fileID: 11400000, guid: 76b7f0d53b17dab44962ec288b198a33, type: 2}
+  nextUpgrade: {fileID: 11400000, guid: 3c7e5d6c6de415e44b729766ec325e02, type: 2}
